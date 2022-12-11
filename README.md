@@ -33,7 +33,7 @@ I highly recommend a keyboard and mouse for this. Typing and navigating Desktop 
 
 [LiveSplit](https://livesplit.org/downloads/)
 
-["Dead Rising Speedrunning Skip Tool (Up-To-Date)" and "Updated Autosplitter by Edge"](https://www.speedrun.com/resources).
+["Dead Rising Speedrunning Skip Tool (Up-To-Date)" and "Updated Autosplitter by Edge"](https://www.speedrun.com/dr1/resources).
 
 
 ## Setup
