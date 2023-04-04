@@ -57,7 +57,7 @@ In the new empty prompt:
 
 `#!/bin/bash`
 
-`"home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run DeadRising.exe & "home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run DeadRisingSpeedrunningSkipTool.exe & "home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run LiveSplit.exe`
+`"/home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run DeadRising.exe & "/home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run DeadRisingSpeedrunningSkipTool.exe & "/home/deck/.local/share/Steam/steamapps/common/Proton 7.0/proton" run LiveSplit.exe`
 
 On your keyboard click 'ctrl' and 'x'.  It will ask you if you want to save the file, hit 'Y' then 'Enter'.
 
